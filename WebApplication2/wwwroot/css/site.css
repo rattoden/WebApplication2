@@ -1,0 +1,80 @@
+﻿#btn {
+    border: 4px solid #949494;
+    background-color: #eeeeee;
+}
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+    border: 2px solid #7d7d7d;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #eeeeee;
+}
+
+.text-center {
+    background-color: Window;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border: 5px solid #7d7d7d;
+}
+
+#nav {
+    border-bottom: 5px solid #7d7d7d;
+    height: 58px;
+}
+
+html {
+    font-size: 14px;
+    background-color: Window;
+}
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+    #nav {
+        border-bottom: 5px solid #7d7d7d;
+        height: 65px;
+    }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    border-bottom: 5px solid #7d7d7d;
+    border-top: 5px solid #7d7d7d;
+    background-image: url(https://avatars.mds.yandex.net/i?id=21044748c9e120d08d3f60ea0df315d6-5505784-images-thumbs&n=13);
+}
+
+form {
+    background-color: Window;
+    border: 5px solid #7d7d7d;
+    margin-top: 15px;
+    height: auto;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+
+#Task {
+    text-align: center;
+}
+
+.line {
+    border-top: 5px solid #7d7d7d;
+}
+
+.zadanie {
+    background-color: #eeeeee;
+}
